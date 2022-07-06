@@ -9,7 +9,7 @@
 -  🌱 Je suis en train d'apprendre **À devenir un développeur polyvalent**
 
 - 💬 Ask me about **React,Html,Css, Javascript...**
-- 💬  Demandez-moi **React,Html,Css, Javascript...**
+- 💬  Demandez-moi sur **React,Html,Css, Javascript...**
 
 - ⚡ Fun fact **!**
 - ⚡ Fait amusant **Réduire l’emballage en épicerie comporte son lot de péripéties !**
