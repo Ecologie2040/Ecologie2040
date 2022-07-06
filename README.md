@@ -1,6 +1,6 @@
 <h1 align="center">🤝 Fagot/README.md</h1>
 <h3 align="center">My name is Fagot Oleko and I am a web developer</h3>
-<h3 align="center">Je m'appelle Fagot Oleko et je suis développeur web.</h3>
+<h3 align="center">Je m'appelle Fagot Oleko et je suis développeur web</h3>
 
 <br>
 
