@@ -5,7 +5,7 @@
 <br>
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-- 🌱 I’m curently learning **full stack**
+- 🌱 I’m curently learning **To become a developer full stack**
 -  🌱 Je suis en train d'apprendre **À devenir un développeur polyvalent**
 
 - 💬 Ask me about **React,Html,Css, Javascript...**
