@@ -4,6 +4,12 @@
 
 <br>
 
+
+
+<p aligne="right">
+    <img align="center" width="900" src="https://user-images.githubusercontent.com/90417228/180320924-d207436b-0bc7-4cf1-9581-2a192495fb0e.gif"
+ </p>
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 - 🌱 I’m curently learning **To become a developer full stack.**
 -  🌱 Je suis en train d'apprendre **À devenir un développeur polyvalent.**
