@@ -34,8 +34,6 @@
 <h1 align="center">Projet gestion de news</h1>
 <br>
 
-<img src="https://user-images.githubusercontent.com/90417228/178588166-1e994035-26bb-483c-98b4-a645d7a3920b.jpg" width="1000px" height="" />
+<img src="https://user-images.githubusercontent.com/90417228/182018114-86e86bcc-337d-4823-a7f5-4dc9148dc5d8.png" width="1000px" height="" />
 
-Administration
 
-<img src="https://user-images.githubusercontent.com/90417228/178595108-35fe770f-3ee8-42e8-80a9-fc72971ac644.jpg" width="1000px" height="" />
