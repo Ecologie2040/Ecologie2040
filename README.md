@@ -36,4 +36,7 @@
 
 <img src="https://user-images.githubusercontent.com/90417228/182018114-86e86bcc-337d-4823-a7f5-4dc9148dc5d8.png" width="1000px" height="" />
 
+Email address : admin@admin.be
+Password : abcd1234
+
 
